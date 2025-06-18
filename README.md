@@ -74,7 +74,6 @@
 
 <a href="https://www.linkedin.com/in/ulises-bracamontes-ordoñez-69455a228/" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>    
 <a href="mailto:ulisesbracamontesordonez@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>     
-<a href="https://twitter.com/tu_usuario_de_twitter" target="_blank"><img width="90px" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 </br>
 </br>
